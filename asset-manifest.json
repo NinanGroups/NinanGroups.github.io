@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/evolvelanguageacademy/static/css/main.1358c101.css",
+    "main.js": "/evolvelanguageacademy/static/js/main.acb0af1e.js",
+    "static/media/back.webp": "/evolvelanguageacademy/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/evolve_logo.webp": "/evolvelanguageacademy/static/media/evolve_logo.2b0add3f04e8ba3e9def.webp",
+    "static/media/awrapper.webp": "/evolvelanguageacademy/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/evolvelanguageacademy/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/evolvelanguageacademy/index.html",
+    "main.1358c101.css.map": "/evolvelanguageacademy/static/css/main.1358c101.css.map",
+    "main.acb0af1e.js.map": "/evolvelanguageacademy/static/js/main.acb0af1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1358c101.css",
+    "static/js/main.acb0af1e.js"
+  ]
+}
